@@ -26,4 +26,4 @@ Este proyecto es el backend de una aplicación web para la gestión de inventari
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/inventario-bar-backend.git
+   git clone https://github.com/ldromeromo/backend-emprendimiento-bar
